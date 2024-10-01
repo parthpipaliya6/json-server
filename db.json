@@ -1,22 +1,32 @@
 {
   "students": [
     {
-      "id": "ef48",
+      "id": "9585",
+      "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png",
+      "name": "partham",
+      "number": "",
+      "course": ""
+    },
+    {
+      "id": "1",
+      "img": "https://www.copahost.com/blog/wp-content/uploads/2019/07/imgsize2.png",
+      "name": "partham",
+      "number": "987654311",
+      "course": "Web Development"
+    },
+    {
+      "id": "2",
+      "img": "",
       "name": "",
       "number": "",
-      "course": "full stack"
+      "course": ""
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
-    },
-    {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": "8",
+      "img": "",
+      "name": "",
+      "number": "",
+      "course": ""
     }
   ]
 }
